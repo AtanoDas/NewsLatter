@@ -1,1 +1,1 @@
-# NewsLatter
+# NewsLetter
